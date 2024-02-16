@@ -1,5 +1,7 @@
 git clone
 cd pythonthw
 git init
-git add .
+git add "nombre archivo"
+git commit -m "comentarios"
 git remote -v
+git push
