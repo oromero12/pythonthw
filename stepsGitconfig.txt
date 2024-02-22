@@ -5,4 +5,4 @@ git add "nombre archivo"
 git commit -m "comentarios"
 git remote -v
 git push
-prueba
+git config --global credential.helper store
