@@ -6,3 +6,4 @@ git commit -m "comentarios"
 git remote -v
 git push
 git config --global credential.helper store
+git config user.name "Mona Lisa"
